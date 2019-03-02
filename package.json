@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.0.0",
-    "gatsby-plugin-manifest": "^2.0.2",
-    "gatsby-plugin-offline": "^2.0.5",
-    "gatsby-plugin-react-helmet": "^3.0.0",
-    "react": "^16.5.1",
-    "react-dom": "^16.5.1",
+    "gatsby": "^2.1.19",
+    "gatsby-plugin-manifest": "^2.0.20",
+    "gatsby-plugin-offline": "^2.0.24",
+    "gatsby-plugin-react-helmet": "^3.0.7",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
     "react-helmet": "^5.2.0"
   },
   "keywords": ["gatsby"],
@@ -28,13 +28,13 @@
     "*.{css,scss}": ["prettier --parser css --write", "git add"]
   },
   "devDependencies": {
-    "@mdx-js/mdx": "^0.16.6",
-    "@mdx-js/tag": "^0.16.6",
-    "gatsby-mdx": "^0.3.3",
-    "gatsby-source-filesystem": "^2.0.1",
+    "@mdx-js/mdx": "^0.20.0",
+    "@mdx-js/tag": "^0.18.0",
+    "gatsby-mdx": "^0.4.0",
+    "gatsby-source-filesystem": "^2.0.23",
     "husky": "^1.1.0",
-    "lint-staged": "^8.1.0",
-    "prettier": "^1.14.3"
+    "lint-staged": "^8.1.5",
+    "prettier": "^1.16.4"
   },
   "repository": {
     "type": "git",
