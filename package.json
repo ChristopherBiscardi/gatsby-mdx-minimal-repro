@@ -28,9 +28,9 @@
     "*.{css,scss}": ["prettier --parser css --write", "git add"]
   },
   "devDependencies": {
-    "@mdx-js/mdx": "^0.20.0",
-    "@mdx-js/tag": "^0.18.0",
-    "gatsby-mdx": "^0.4.0",
+    "@mdx-js/mdx": "^0.20.3",
+    "@mdx-js/tag": "^0.20.3",
+    "gatsby-mdx": "^0.4.3",
     "gatsby-source-filesystem": "^2.0.23",
     "husky": "^1.1.0",
     "lint-staged": "^8.1.5",
