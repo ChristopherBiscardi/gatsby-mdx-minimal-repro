@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.1.19",
-    "gatsby-plugin-manifest": "^2.0.20",
-    "gatsby-plugin-offline": "^2.0.24",
-    "gatsby-plugin-react-helmet": "^3.0.7",
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
+    "gatsby": "^2.1.31",
+    "gatsby-plugin-manifest": "^2.0.24",
+    "gatsby-plugin-offline": "^2.0.25",
+    "gatsby-plugin-react-helmet": "^3.0.9",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0"
   },
   "keywords": ["gatsby"],
@@ -31,7 +31,7 @@
     "@mdx-js/mdx": "^0.20.3",
     "@mdx-js/tag": "^0.20.3",
     "gatsby-mdx": "^0.4.3",
-    "gatsby-source-filesystem": "^2.0.23",
+    "gatsby-source-filesystem": "^2.0.24",
     "husky": "^1.1.0",
     "lint-staged": "^8.1.5",
     "prettier": "^1.16.4"
